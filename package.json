@@ -1,0 +1,24 @@
+{
+  "name": "es6-thunkify",
+  "version": "1.0.0",
+  "description": "generate thunk function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purelanren/es6-thunkify.git"
+  },
+  "keywords": [
+    "thunk",
+    "thunkify",
+    "es6"
+  ],
+  "author": "purelanren@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purelanren/es6-thunkify/issues"
+  },
+  "homepage": "https://github.com/purelanren/es6-thunkify#readme"
+}
