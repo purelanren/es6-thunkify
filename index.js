@@ -1,4 +1,4 @@
-module.exports = function thunkify (fn) {
+export default function thunkify (fn) {
   return function (...args) {
     return cb => {
       let done = false

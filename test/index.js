@@ -1,5 +1,5 @@
 const assert = require('assert')
-const thunkify = require('./')
+const thunkify = require('../').default
 
 describe('thunkify', function () {
   it('should return thunk function', function (done) {
